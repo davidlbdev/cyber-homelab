@@ -13,9 +13,9 @@ The goal is to develop practical skills in:
 
 The lab consists of multiple virtual machines connected through a segmented network using pfSense.
 
- - WAN: Bridged Adapter
- - LAN: (pfVulnLabs): 172.30.2.0/24
- - Gateway: 172.30.2.1 (pfSense)
+ - **WAN**: Bridged Adapter
+ - **LAN: (pfVulnLabs)**: 172.30.2.0/24
+ - **Gateway**: 172.30.2.1 (pfSense)
 
 All internal lab VMs reside on the LAN and communicate through pfSense.
 
